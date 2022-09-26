@@ -1,1 +1,2 @@
 The File A
+New Line 2
