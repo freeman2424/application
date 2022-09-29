@@ -1,1 +1,2 @@
 The File C
+NEW changes in the file
